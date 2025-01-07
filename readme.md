@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm **Dishant Mehta**, a passionate and versatile 
 
 #### **Cross-Platform Frameworks**:
 - 🛠️ **Flutter**: Single codebase for beautiful, native mobile apps.
-- FlutterFlow : ⚡ Rapid prototyping using FlutterFlow
-🏗️ Robust architectural patterns with Clean Architecture
+- ⚡ FlutterFlow :  Rapid prototyping using FlutterFlow
+- 🏗️ Robust architectural patterns with Clean Architecture
 - ⚛️ **React Native**: Seamlessly combining JavaScript with native performance.
 - 🌐 **Ionic**: Hybrid app development made simple.
 - 🌀 **Xamarin**: .NET-based mobile solutions.
