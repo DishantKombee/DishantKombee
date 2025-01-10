@@ -89,8 +89,8 @@ Welcome to my GitHub profile! I'm **Dishant Mehta**, a passionate and versatile 
 
 ### **Mobile Applications** 📱
 
-- 📝 [Flutter TODO APP](https://github.com/DishantKombee/todo_app_provider)
-- 🛒 [Flutter E-Commerce Platform](https://github.com/DishantKombee/FlutterECommerceApp)
+- 📝 [Flutter TODO APP Provider](https://github.com/DishantKombee/todo_app_provider)
+- 🛒 [Flutter Wather_APP_RiverPod](https://github.com/DishantKombee/wether_app_riverpod)
 - 🍔 [React Native Food Delivery App](https://github.com/DishantKombee/ReactNativeFoodApp)
 
 ### **Web Applications** 🌐
