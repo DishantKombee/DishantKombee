@@ -1,4 +1,5 @@
 # 👨‍💻 Dishant Mehta - Full Stack Developer
+![Header](banner.png)
 
 Welcome to my GitHub profile! I'm **Dishant Mehta**, a passionate and versatile full-stack developer with expertise across the entire software development lifecycle. From crafting responsive user interfaces to building robust backend systems, I have a proven track record of delivering cutting-edge solutions tailored to business needs.
 
